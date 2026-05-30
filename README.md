@@ -1,6 +1,6 @@
-# awesome-linkedin-mcp
+# awesome-linkedin-mcp [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of LinkedIn MCP servers, Claude Code workflows that use them, and adjacent tools for building GTM automations through MCP.
+> A curated list of LinkedIn MCP servers, Claude Code workflows that use them, and adjacent tools for building GTM automations through MCP.
 
 Maintained by [John Peslar](https://johnpeslar.com). PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -102,4 +102,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [John Peslar](https://johnpeslar.com) has waived all copyright and related or neighboring rights to this work.
